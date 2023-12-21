@@ -24,7 +24,7 @@ The following waiting periods apply for individuals needing to retake the Series
 (2) a minimum of 30 days after failing the exam for the second time before the third taking of the exam can be scheduled; and</br>
 (3) a minimum of 180 days after failing the exam for a third time before the fourth taking of the exam (and each subsequent taking) can be scheduled..</br>
 
-</br></br>
+</br>
 
 The Series 66 Exam combines content from the Series 65 and Series 63 exams, focusing on both federal and state securities laws. We allocate time to help our students understand the regulations and ethical considerations for both investment advisers and representatives using the course structure below to reinforce your understanding of the material.
 </br></br>
