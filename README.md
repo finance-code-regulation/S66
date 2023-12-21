@@ -4,12 +4,12 @@ After passing the SIE and Series 7 Exams, representatives must also pass at leas
 
 1. Series 63 – Uniform Securities Agent State Law Exam </br>
 2. Series 65 – Uniform Investment Adviser Law Exam</br>
-3. Series 66 – Uniform Combined State Law Exam</br>
+**3. Series 66 – Uniform Combined State Law Exam**</br>
 ** The Series 66 exam is the equivalent of taking **both** the Series 63 and Series 65 exams.</br></br>
 
 | Exam    | Questions | Allotted Exam Time | Required To Pass |
 | :-------- | :------- | -------: |-------: |
-| S66    | 100 Multiple-Choice Questions   | 1 hour and 50 minutes    | 73% |
+| **S66**    | **100 Multiple-Choice Questions**   | **1 hour and 50 minutes**    | **73%** |
 | S63    | 60 Multiple-Choice Questions    | 1 hour and 15 minutes    | 72% |
 | S65    | 130 Multiple-Choice Questions    | 3 hours   | 70% |
 
@@ -31,63 +31,64 @@ The Series 66 Exam combines content from the Series 65 and Series 63 exams, focu
 
 
 **I. Introduction to Series 66 Exam**</br>
-A. Purpose and Structure of Series 66.</br>
-B. Relationship between State and Federal Securities Laws.</br>
-C. Series 66 relative to the Series 65 and Series 63 Exams.</br>
+&nbsp; A. &nbsp; &nbsp; Purpose and Structure of Series 66.</br>
+&nbsp; B. &nbsp; &nbsp; State Securities Laws.</br>
+&nbsp; C. &nbsp; &nbsp; Federal Securities Laws.</br>
+&nbsp; D. &nbsp; &nbsp; Overview of the Series 66, Series 65, and Series 63 Exams.</br>
 
 **II. Securities Act of 1933 and 1934**</br>
-A. Overview of Federal Securities Laws.</br>
-B. Registration of Securities.</br>
-C. Exemptions from Registration.</br>
+&nbsp; A. &nbsp; &nbsp; Overview of Federal Securities Laws.</br>
+&nbsp; B. &nbsp; &nbsp; Registration of Securities.</br>
+&nbsp; C. &nbsp; &nbsp; Exemptions from Registration.</br>
 
 **III. Investment Advisers Act of 1940**</br>
-A. Registration and Regulation of Investment Advisers.</br>
-B. Fiduciary Duty and Ethical Obligations.</br>
-C. Exemptions and Exceptions.</br>
+&nbsp; A. &nbsp; &nbsp; Registration and Regulation of Investment Advisers.</br>
+&nbsp; B. &nbsp; &nbsp; Fiduciary Duty and Ethical Obligations.</br>
+&nbsp; C. &nbsp; &nbsp; Exemptions and Exceptions.</br>
 
 **IV. Uniform Securities Act**</br>
-A. State Securities Laws and Regulations.</br>
-B. Registration of Securities and Broker-Dealers.</br>
-C. Exemptions and Exclusions.</br>
+&nbsp; A. &nbsp; &nbsp; State Securities Laws and Regulations.</br>
+&nbsp; B. &nbsp; &nbsp; Registration of Securities and Broker-Dealers.</br>
+&nbsp; C. &nbsp; &nbsp; Exemptions and Exclusions.</br>
 
 **V. Investment Adviser Representative Requirements**</br>
-A. Qualifications and Registration of Investment Adviser Representatives.</br>
-B. Prohibited Practices and Ethical Obligations.</br>
-C. Continuing Education and Reporting Requirements.</br>
+&nbsp; A. &nbsp; &nbsp; Qualifications and Registration of Investment Adviser Representatives.</br>
+&nbsp; B. &nbsp; &nbsp; Prohibited Practices and Ethical Obligations.</br>
+&nbsp; C. &nbsp; &nbsp; Continuing Education and Reporting Requirements.</br>
 
 **VI. Securities Registration Procedures**</br>
-A. Registration Requirements for Securities.</br>
-B. Examination of Registration Statements.</br>
-C. Effective Dates and Amendments.</br>
+&nbsp; A. &nbsp; &nbsp; Registration Requirements for Securities.</br>
+&nbsp; B. &nbsp; &nbsp; Examination of Registration Statements.</br>
+&nbsp; C. &nbsp; &nbsp; Effective Dates and Amendments.</br>
 
 **VII. Regulation of Investment Products**</br>
-A. Types of Securities and Investment Products.</br>
-B. Regulatory Requirements.</br>
+&nbsp; A. &nbsp; &nbsp; Types of Securities and Investment Products.</br>
+&nbsp; B. &nbsp; &nbsp; Regulatory Requirements.</br>
 1. Mutual Funds.</br>
 2. Exchange Traded Funds.</br>
 3. Variable Annuities.</br>
 
-C. Disclosure and Sales Practices.</br>
+&nbsp; C. &nbsp; &nbsp; Disclosure and Sales Practices.</br>
 
 **VIII. Investment Strategies and Recommendations**</br>
-A. Client Suitability and Investment Objectives.</br>
-B. Portfolio Management Techniques and Strategies.</br>
-C. Ethical Considerations in Investment Recommendations.</br>
+&nbsp; A. &nbsp; &nbsp; Client Suitability and Investment Objectives.</br>
+&nbsp; B. &nbsp; &nbsp;  Portfolio Management Techniques and Strategies.</br>
+&nbsp; C. &nbsp; &nbsp; Ethical Considerations in Investment Recommendations.</br>
 
 **IX. Retirement Planning and Regulation**</br>
-A. Types of Retirement Plans.</br>
-B. ERISA Matters and Regulation of Pension Funds.</br>
-C. Tax Considerations in Retirement Planning.</br>
+&nbsp; A. &nbsp; &nbsp; Types of Retirement Plans.</br>
+&nbsp; B. &nbsp; &nbsp; ERISA Matters and Regulation of Pension Funds.</br>
+&nbsp; C. &nbsp; &nbsp; Tax Considerations in Retirement Planning.</br>
 
 **X. Examination Preparation Strategies**</br>
-A. Study Materials and Resources.</br>
-B. Sample Questions and Practice Exams.</br>
-C. Test-Taking Strategies and Time Management.</br>
+&nbsp; A. &nbsp; &nbsp;  Study Materials and Resources.</br>
+&nbsp; B. &nbsp; &nbsp; Sample Questions and Practice Exams.</br>
+&nbsp; C. &nbsp; &nbsp; Test-Taking Strategies and Time Management.</br>
 
 **XI. Review and Practice**</br>
-A. Summary of Key Concepts and Topics.</br>
-B. Quizzes and Review Exercises.</br>
-C. Mock Exams for Self-Assessment.</br>
+&nbsp; A. &nbsp; &nbsp; Summary of Key Concepts and Topics.</br>
+&nbsp; B. &nbsp; &nbsp; Quizzes and Review Exercises.</br>
+&nbsp; C. &nbsp; &nbsp; Mock Exams for Self-Assessment.</br>
 
 
 
