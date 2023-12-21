@@ -23,7 +23,7 @@ The Series 66 Exam combines content from the Series 65 and Series 63 exams, focu
 
 | Section    | Description | Questions | Weight |
 | :-------- | :------- | -------: |-------: |
-| I. | Economic and Business  | 8 | 8% |
+| I. | Economics and Business  | 8 | 8% |
 | II. | Investment Vehicle Characteristics  | 17 | 17% |
 | III. | Client Investment Recommendations and Strategies | 30 |  30% |
 | IV. | Laws, Regulations, Ethics, and Fiduciary Roles  |45 | 45% |
