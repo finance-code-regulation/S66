@@ -15,10 +15,18 @@ After passing the SIE and Series 7 Exams, representatives **must also pass at le
 
 </br>
 In order for a candidate to pass the Series 66 Exam, he/she must correctly answer at least 73 of the 100 scored questions. Applicants are allowed 150 minutes to complete the examination. The Uniform Combined State Law Examination was developed by NASAA based on industry requests. The examination (also called the “Series 66”) qualifies candidates as both securities agents (Series 63) and investment adviser representatives (Series 65). Once registered, FINRA will open a 120-day window within which an individual may schedule the exam. 
-</br>
+</br></br>
 
 The Series 66 Exam combines content from the Series 65 and Series 63 exams, focusing on both federal and state securities laws. We allocate time to help our students understand the regulations and ethical considerations for both investment advisers and representatives using the course structure below to reinforce your understanding of the material.
 </br></br>
+
+
+SUBJECT MATTER WEIGHTING NUMBER OF QUESTIONS
+Economic Factors and Business Information 8% 8
+Investment Vehicle Characteristics 17% 17
+Client/Customer Investment Recommendations and Strategies 30% 30
+Laws, Regulations, and Guidelines Including Prohibition on Unethical Business Practices 45% 45
+TOTALS 100% 100* 
 
 
 **I. Introduction to Series 66 Exam**</br>
