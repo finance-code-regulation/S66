@@ -21,12 +21,13 @@ The Series 66 Exam combines content from the Series 65 and Series 63 exams, focu
 </br></br>
 
 
-SUBJECT MATTER WEIGHTING NUMBER OF QUESTIONS
-Economic Factors and Business Information 8% 8
-Investment Vehicle Characteristics 17% 17
-Client/Customer Investment Recommendations and Strategies 30% 30
-Laws, Regulations, and Guidelines Including Prohibition on Unethical Business Practices 45% 45
-TOTALS 100% 100* 
+| Section    | Description | Questions | Weight |
+| :-------- | :------- | -------: |-------: |
+| I. | Economic and Business  | 8 | 8% |
+| II. | Investment Vehicle Characteristics  | 17 | 17% |
+| III. | Client Investment Recommendations and Strategies | 30 |  30% |
+| IV. | Laws, Regulations, Ethics, and Fiduciary Roles  |45 | 45% |
+| **Total** |  | **100** | **100%** |
 
 
 **I. Introduction to Series 66 Exam**</br>
