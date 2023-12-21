@@ -1,10 +1,10 @@
 # Series 66 – Uniform Combined State Law Exam</br>
 
-After passing the SIE and Series 7 Exams, representatives must also pass at least ONE of the following Securities Law Exams in order to be registered to conduct business in any State, and must be approved in their *home* state.
+After passing the SIE and Series 7 Exams, representatives **must also pass at least ONE** of the following Securities Law Exams in order to be registered to conduct business in any State, and must be approved in their *home* state.
 
 1. Series 63 – Uniform Securities Agent State Law Exam </br>
 2. Series 65 – Uniform Investment Adviser Law Exam</br>
-**3. Series 66 – Uniform Combined State Law Exam**</br>
+3. Series 66 – Uniform Combined State Law Exam</br>
 ** The Series 66 exam is the equivalent of taking **both** the Series 63 and Series 65 exams.</br></br>
 
 | Exam    | Questions | Allotted Exam Time | Required To Pass |
